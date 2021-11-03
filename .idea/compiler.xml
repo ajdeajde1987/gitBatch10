@@ -9,6 +9,7 @@
         <module name="TestNgFrameworkBatch10" />
         <module name="TestNgFrameworkBatch10-master" />
         <module name="TestNgFrameworkB10" />
+        <module name="gitBatch10" />
       </profile>
     </annotationProcessing>
   </component>
