@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TestNgFrameworkBatch10" />
+        <module name="TestNgFrameworkBatch10-master" />
         <module name="TestNgFrameworkB10" />
       </profile>
     </annotationProcessing>
